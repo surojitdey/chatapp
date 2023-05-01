@@ -1,16 +1,15 @@
 # chatapp
 
-1. clone the repository
+1. <b>Clone the repository</b> <br/>
+2. <b>TO RUN THE UI:</b> <br/>
+    a) cd chat-ui <br/>
+    b) npm install <br/>
+    c) npm start <br/>
+3. <b>TO RUN THE API:<b/> <br/>
+    a) cd chatbot-api <br/>
+    b) create a python environment by using virtualenv eg. python -m venv venv <br/>
+    c) activate the environment eg. source venv/bin/activate <br/>
+    d) pip install -r requirements.txt <br/>
+    e) python app.py <br/> <br/>
 
-2. TO RUN THE UI:
-    a) cd chat-ui
-    b) npm install
-    c) npm start
-3. TO RUN THE API:
-    a) cd chatbot-api
-    b) create a python environment by using virtualenv eg. python -m venv venv
-    c) activate the environment eg. source venv/bin/activate
-    d) pip install -r requirements.txt
-    e) python app.py
-
-Now you are ready to use the chatbot UI
+Now you are ready to use the chatbot UI <br/>
