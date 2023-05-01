@@ -2,7 +2,7 @@
 
 1. clone the repository
 
-2. TO RUN THE UI:
+2. TO RUN THE UI: \n
     a) cd chat-ui
     b) npm install
     c) npm start
